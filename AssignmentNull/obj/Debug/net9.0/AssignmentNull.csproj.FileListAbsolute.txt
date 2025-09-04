@@ -1,0 +1,15 @@
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/bin/Debug/net9.0/AssignmentNull
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/bin/Debug/net9.0/AssignmentNull.deps.json
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/bin/Debug/net9.0/AssignmentNull.runtimeconfig.json
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/bin/Debug/net9.0/AssignmentNull.dll
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/bin/Debug/net9.0/AssignmentNull.pdb
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/obj/Debug/net9.0/AssignmentNull.GeneratedMSBuildEditorConfig.editorconfig
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/obj/Debug/net9.0/AssignmentNull.AssemblyInfoInputs.cache
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/obj/Debug/net9.0/AssignmentNull.AssemblyInfo.cs
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/obj/Debug/net9.0/AssignmentNull.csproj.CoreCompileInputs.cache
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/obj/Debug/net9.0/AssignmentNull.sourcelink.json
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/obj/Debug/net9.0/AssignmentNull.dll
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/obj/Debug/net9.0/refint/AssignmentNull.dll
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/obj/Debug/net9.0/AssignmentNull.pdb
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/obj/Debug/net9.0/AssignmentNull.genruntimeconfig.cache
+/home/flipflop/Documents/dotnet/DotNet/AssignmentNull/obj/Debug/net9.0/ref/AssignmentNull.dll
